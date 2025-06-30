@@ -1,7 +1,8 @@
-flask
+Flask
 chromadb
-fastembed
-openai
+fastembed>=0.7.1
 PyPDF2
 python-dotenv
-requests 
+requests
+langchain-openai>=0.3.26   # includes AzureChatOpenAI
+openai

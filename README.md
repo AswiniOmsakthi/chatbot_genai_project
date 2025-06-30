@@ -38,7 +38,7 @@ venv\Scripts\activate
 ```
 
 **Linux/macOS:**
-```bash
+```bash script
 # Create virtual environment
 python3 -m venv venv
 
